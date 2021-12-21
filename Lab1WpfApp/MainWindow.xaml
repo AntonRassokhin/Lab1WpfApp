@@ -31,7 +31,7 @@
         <Button Content="-" HorizontalAlignment="Left" Margin="185,125,0,0" VerticalAlignment="Top" Width="50" Height="50" Background="#FF635F5F" FontSize="20"/>
         <Button Content="*" HorizontalAlignment="Left" Margin="185,180,0,0" VerticalAlignment="Top" Width="50" Height="50" Background="#FF635F5F" FontSize="20"/>
         <Button Content="/" HorizontalAlignment="Left" Margin="185,235,0,0" VerticalAlignment="Top" Width="50" Height="50" Background="#FF635F5F" FontSize="20"/>
-        <Button Content="" HorizontalAlignment="Left" Margin="15,15,0,0" VerticalAlignment="Top" Width="220" Height="40"/>
+        <TextBlock HorizontalAlignment="Left" Margin="15,15,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="220" Height="40" Background="White"/>
 
     </Grid>
 </Window>
